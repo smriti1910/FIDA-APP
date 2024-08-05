@@ -15,7 +15,7 @@ import androidx.core.app.ActivityCompat;
 import androidx.core.content.ContextCompat;
 
 public class AnimalDistressActivity extends AppCompatActivity {
-
+//main
     private static final int LOCATION_PERMISSION_REQUEST_CODE = 100;
     private static final String ANIMAL_RESCUE_PHONE_NUMBER = "987654321"; // Replace with the actual animal rescue phone number
 
