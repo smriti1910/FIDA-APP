@@ -15,7 +15,9 @@ FIDA's user interface is a product of meticulous design grounded in a user-centr
 6.Real-time Location Services:
 A key technical prowess of FIDA lies in its utilization of advanced location services, including real-time tracking and mapping through the Google Maps API. This strategic incorporation provides users with not only accurate but dynamic location information during emergency situations. The integration of real-time location services significantly contributes to FIDA's responsiveness, aiding both emergency services and designated contacts in providing swift and accurate assistance. The real-time tracking ensures that users' locations are continuously updated, enhancing the effectiveness of the app in urgent scenarios.
 ```
+
 **App ScreenShots:**
+
 ![image](https://github.com/user-attachments/assets/7c8c73cd-2747-4d26-aec1-4d9cbbefe47f)
 ![image](https://github.com/user-attachments/assets/bf5a4527-8c3a-4d89-9d06-0935f2926851)
 ![image](https://github.com/user-attachments/assets/13b177f6-8f7b-482b-9167-568b3716e5ba)
