@@ -1,5 +1,7 @@
-```A Safety Interface that can be used for any kind of emergency situation just with one click**
+A Safety Interface that can be used for any kind of emergency situation just with one click.
+
 **Features of the App:**
+```
 1.Emergency List and Quick Calls:
 At the core of FIDA's functionality is the Emergency List, a dynamic feature that offers users an instantaneous connection with vital services. This grid-based display serves as a hub for quick calls to specific emergency services, such as fire or medical assistance, directly from the app. This design choice is not just about expediting communication but also about providing users with a tailored response to their particular emergency, ensuring that the right services are engaged promptly. The grid-based layout enhances user visibility, making it easy to identify and initiate quick calls in urgent situations.
 2.Emergency Contacts Management:
