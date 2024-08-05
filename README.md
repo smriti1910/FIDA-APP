@@ -1,4 +1,4 @@
-A Safety Interface that can be used for any kind of emergency situation just with one click.
+A Safety Interface developed using Android Studio Code that can be used for any kind of emergency situation just with one click.
 
 **Features of the App:**
 ```
