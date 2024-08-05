@@ -1,0 +1,49 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <GridView
+        android:id="@+id/emergencyGridView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:numColumns="2"
+        android:verticalSpacing="8dp"
+        android:horizontalSpacing="8dp"
+        android:padding="16dp"
+        android:gravity="center_horizontal" />
+
+
+
+    <Button
+        android:id="@+id/sosButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="16dp"
+        android:text="SOS" />
+
+    <Button
+        android:id="@+id/addContactsButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="16dp"
+        android:text="Add Emergency Contact" />
+
+    <Button
+        android:id="@+id/viewContactsButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="16dp"
+        android:text="View Contacts" />
+    <Button
+        android:id="@+id/openMapsButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Find Me"
+        android:onClick="openGoogleMaps"/>
+
+
+</LinearLayout>
