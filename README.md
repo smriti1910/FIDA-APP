@@ -20,7 +20,6 @@ A key technical prowess of FIDA lies in its utilization of advanced location ser
 
 ![image](https://github.com/user-attachments/assets/7c8c73cd-2747-4d26-aec1-4d9cbbefe47f)
 
-
 ![screen_reader_ss](https://github.com/user-attachments/assets/9944e5dc-8447-4a01-9165-99b949bad9bf)
 
 ![image](https://github.com/user-attachments/assets/13b177f6-8f7b-482b-9167-568b3716e5ba)
@@ -33,10 +32,10 @@ A key technical prowess of FIDA lies in its utilization of advanced location ser
 
 ![image](https://github.com/user-attachments/assets/e19a7bed-481e-4da2-ab6b-7e4ff90b830e)
 
-![App Emergeny Feature](https://github.com/user-attachments/assets/ca61f887-bdab-4057-8bb5-e44917cad3ba)
+![App Emergeny Feature-app](https://github.com/user-attachments/assets/004accfa-4fa1-4946-bcd8-8eed2e0a5f88)
 
-![PhoneCall Permission-app](https://github.com/user-attachments/assets/f5c52943-6efc-463f-9c3d-ae428323c3e5)
+![PhoneCall Permission-app](https://github.com/user-attachments/assets/31ecfb6e-667a-49b1-bc01-16674ce5b272)
 
-![SOS message](https://github.com/user-attachments/assets/38ecf0dd-fbbc-42c1-a35d-0dbff84e3133)
+![SOS message-app](https://github.com/user-attachments/assets/e8a652cf-5d89-470d-bbfc-d5b031be3d14)
 
 ![image](https://github.com/user-attachments/assets/310ff920-845e-4fb0-a848-c365a5ffcdb9)
