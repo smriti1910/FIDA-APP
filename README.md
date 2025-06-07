@@ -20,22 +20,32 @@ A key technical prowess of FIDA lies in its utilization of advanced location ser
 
 ![image](https://github.com/user-attachments/assets/7c8c73cd-2747-4d26-aec1-4d9cbbefe47f)
 
-![screen_reader_ss](https://github.com/user-attachments/assets/9944e5dc-8447-4a01-9165-99b949bad9bf)
+
+![ScreenReader SS-app](https://github.com/user-attachments/assets/14faca80-014d-468f-9841-36817eb6138e)
+
 
 ![image](https://github.com/user-attachments/assets/13b177f6-8f7b-482b-9167-568b3716e5ba)
 
+
 ![image](https://github.com/user-attachments/assets/0c80d472-e272-4b3e-8d4e-2de82f0cc6b9)
+
 
 ![image](https://github.com/user-attachments/assets/8e35cc7f-9e5e-4ec0-ab90-3b28028ceebf)
 
+
 ![image](https://github.com/user-attachments/assets/d3e0a753-f2a4-4aab-8d40-4b2ab4cd203d)
+
 
 ![image](https://github.com/user-attachments/assets/e19a7bed-481e-4da2-ab6b-7e4ff90b830e)
 
+
 ![App Emergeny Feature-app](https://github.com/user-attachments/assets/004accfa-4fa1-4946-bcd8-8eed2e0a5f88)
+
 
 ![PhoneCall Permission-app](https://github.com/user-attachments/assets/31ecfb6e-667a-49b1-bc01-16674ce5b272)
 
+
 ![SOS message-app](https://github.com/user-attachments/assets/e8a652cf-5d89-470d-bbfc-d5b031be3d14)
+
 
 ![image](https://github.com/user-attachments/assets/310ff920-845e-4fb0-a848-c365a5ffcdb9)
