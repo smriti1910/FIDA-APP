@@ -35,7 +35,7 @@ A key technical prowess of FIDA lies in its utilization of advanced location ser
 
 ![App Emergeny Feature](https://github.com/user-attachments/assets/ca61f887-bdab-4057-8bb5-e44917cad3ba)
 
-![PhoneCall Permission](https://github.com/user-attachments/assets/28d307aa-05b0-47ca-8dab-eb79f5456546)
+![PhoneCall Permission-app](https://github.com/user-attachments/assets/f5c52943-6efc-463f-9c3d-ae428323c3e5)
 
 ![SOS message](https://github.com/user-attachments/assets/38ecf0dd-fbbc-42c1-a35d-0dbff84e3133)
 
