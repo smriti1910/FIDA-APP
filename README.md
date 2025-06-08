@@ -27,7 +27,10 @@ A key technical prowess of FIDA lies in its utilization of advanced location ser
 ![image](https://github.com/user-attachments/assets/13b177f6-8f7b-482b-9167-568b3716e5ba)
 
 
-![image](https://github.com/user-attachments/assets/0c80d472-e272-4b3e-8d4e-2de82f0cc6b9)
+![bot-pg](https://github.com/user-attachments/assets/8668d65b-b406-4c4b-bdba-77559560a9ab)
+
+
+![bot-chat](https://github.com/user-attachments/assets/8b07524e-6bea-4e1f-90aa-01b7013e5301)
 
 
 ![image](https://github.com/user-attachments/assets/8e35cc7f-9e5e-4ec0-ab90-3b28028ceebf)
